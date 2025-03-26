@@ -1,0 +1,5 @@
+ 1. create new repo
+2. clone repo (git clone repo.git)
+3. git add *
+4. git commit -m "message"
+5. git push
